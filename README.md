@@ -15,8 +15,3 @@ This project is for practicing utility-first styling and creating a clean, moder
 ## 🛠️ Tech Stack
 - HTML5
 - Tailwind CSS
-
-## 📂 Setup Instructions
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/portfolio-tailwind-practice.git
