@@ -8,3 +8,6 @@
   color: white;      
   padding: 20px;
 }
+canvas {
+      display: block;
+    }
